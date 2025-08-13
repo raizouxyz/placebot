@@ -1,2 +1,2 @@
-# placebot
+# [PlaceBot](https://discord.gg/romeda)
 Comming soon...
