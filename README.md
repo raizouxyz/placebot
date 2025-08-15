@@ -5,7 +5,7 @@ Botting tool for wplace.live
 - Monitor the map and revert repainted pixels (keep.py)
 - Voiding (void.py)
 - Automatically log in with your Google account email and password and obtain a token (autologin.py)
-- Check if your account is active and not suspended (checker.py)
+- Check if your account is active and not suspended (check.py)
 - Convert image file to a color that can be used in wplace.live (convert.py)
 ## Note
 ### Coordinate specification
