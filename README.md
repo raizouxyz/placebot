@@ -1,5 +1,5 @@
-# [PlaceBot](https://discord.gg/romeda)
-Botting tool for wplace.live
+<h1 align="center"><a href="https://discord.gg/romeda">🌏PlaceBot🌏</h1>
+<p align="center">Botting tool for wplace.live</p>
 
 ## Features
 - Place on the map according to the image file (place.py)
